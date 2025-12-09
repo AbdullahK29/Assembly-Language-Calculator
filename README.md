@@ -67,7 +67,7 @@ Error cases handled internally:
 
 ---
 
-## 📂 Project Structure
+Project Structure
 
 ```
 /Advanced-Calculator
